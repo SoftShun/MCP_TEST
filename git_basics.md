@@ -12,3 +12,13 @@
 - `git pull`: 원격 저장소의 변경사항을 로컬로 가져옴
 - `git branch`: 브랜치 관리
 - `git merge`: 브랜치 병합
+- `git status`: 작업 디렉토리 상태 확인
+- `git log`: 커밋 이력 조회
+- `git checkout`: 브랜치 전환 또는 파일 복원
+
+## 좋은 커밋 메시지 작성법
+1. 첫 줄은 50자 이내로 변경사항을 요약
+2. 한 줄 띄우고 상세 설명 추가 (필요한 경우)
+3. 현재 시제 사용 ("Add feature" O, "Added feature" X)
+4. 명령형으로 시작 ("Fix bug" O, "Fixes bug" X)
+5. 변경 이유와 결과를 설명
