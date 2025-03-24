@@ -10,14 +10,9 @@
 }
 
 .footer-logo h3 {
-  font-size: 1.8rem;
-  color: var(--accent-color);
+  font-size: 1.5rem;
   margin-bottom: 10px;
-}
-
-.footer-logo p {
-  color: var(--text-color);
-  opacity: 0.8;
+  color: var(--primary-color);
 }
 
 .footer-links {
@@ -26,9 +21,8 @@
 }
 
 .footer-nav h4, .footer-contact h4 {
-  font-size: 1.2rem;
-  color: var(--primary-color);
   margin-bottom: 15px;
+  color: var(--primary-color);
 }
 
 .footer-nav ul, .footer-contact ul {
@@ -41,7 +35,6 @@
 
 .footer-nav a {
   color: var(--text-color);
-  text-decoration: none;
   transition: color 0.3s;
 }
 
@@ -49,18 +42,10 @@
   color: var(--accent-color);
 }
 
-.footer-contact li {
-  color: var(--text-color);
-  opacity: 0.8;
-}
-
 .footer-bottom {
   text-align: center;
   padding-top: 20px;
   border-top: 1px solid var(--border-color);
-}
-
-.footer-bottom p {
   color: var(--text-color);
   opacity: 0.7;
   font-size: 0.9rem;
